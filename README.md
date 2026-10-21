@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/mri-signal-formation-hardware-explainer/
 
+Repository: https://github.com/mizcausevic-dev/mri-signal-formation-hardware-explainer
+
 ## What this is
 
 An interactive anatomy plate for MRI Signal-Formation Hardware. Play, scrub, or jump the five stages. The same frame always draws the same picture.
